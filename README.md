@@ -27,5 +27,5 @@ A simple billing system implemented in PHP allows the management of subscription
 - Run the application using cmd - php index.php
 
 # Tests:
-To run the test run ./vendor/bin/phpunit tests/SubscriptionTest.php
+To run the test run ./vendor/bin/phpunit tests/SubscriptionTest.php and ./vendor/bin/phpunit tests/BillingServiceTest.php
 
