@@ -1,6 +1,6 @@
 # PHP Billing System
 
-A simple billing system implemented in PHP, allows the management of subscriptions with different billing periods. This project includes functionalities for creating subscriptions, generating bills, and renewing subscriptions, all handled in memory without any database interaction.
+A simple billing system implemented in PHP allows the management of subscriptions with different billing periods. This project includes functionalities for creating subscriptions, generating bills, and renewing subscriptions, all handled in memory without any database interaction.
 
 ## Features
 
@@ -25,3 +25,7 @@ A simple billing system implemented in PHP, allows the management of subscriptio
 - composer install
 - Navigate to the project directory:
 - Run the application using cmd - php index.php
+
+# Tests:
+To run the test run ./vendor/bin/phpunit tests/SubscriptionTest.php
+
